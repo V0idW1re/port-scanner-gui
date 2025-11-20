@@ -15,8 +15,6 @@ Designed to work on desktop **and** Android (via Pydroid), this tool allows you 
 - Shows open ports count and progress
 - Mobile-friendly UI (works great in Pydroid)
 
----
-
 ## Project Structure
 
 port-scanner-gui/
@@ -27,8 +25,6 @@ port-scanner-gui/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
----
 
 ## Usage
 
