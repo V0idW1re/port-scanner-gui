@@ -16,15 +16,15 @@ Designed to work on desktop **and** Android (via Pydroid), this tool allows you 
 - Mobile-friendly UI (works great in Pydroid)
 
 ## Project Structure
-
-port-scanner-gui/
-│
-├── src/
-│ └── portscanner.py
-│
-├── README.md
-├── LICENSE
-└── .gitignore
+  
+port-scanner-gui/  
+│  
+├── src/  
+│ └── portscanner.py  
+│  
+├── README.md  
+├── LICENSE  
+└── .gitignore  
 
 ## Usage
 
